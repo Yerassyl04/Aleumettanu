@@ -1,2 +1,1 @@
-# Aleumettanu
-Kaz OpenU book
+# CODES
